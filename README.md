@@ -53,7 +53,7 @@ node scripts/wg.mjs install-runtime --dir D:/some/dir     # 装到指定目录�
 - [相关视频](https://www.bilibili.com/video/BV1Bx9GBaENN/?spm_id_from=333.1391.0.0&vd_source=28c2a235b6a1fb869deda22325f31f88)
 - 部分说明文档（references/）
 
-经私信构图，参考申请已被允许。根据要求，在此一并感谢：
+经私信沟通，参考申请已被允许。根据要求，在此一并感谢：
 
 - **@池沼mur大先辈**
 - **@其实rigby是一只母猫**
