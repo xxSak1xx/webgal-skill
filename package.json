@@ -1,0 +1,11 @@
+{
+  "name": "webgal-editor",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Bundled runtime for the webgal-editor skill (operates a WebGAL game dir through the @webgal-tools MCP server).",
+  "dependencies": {
+    "@webgal-tools/mcp-server": "1.7.18",
+    "@webgal-tools/config": "1.7.18"
+  }
+}
